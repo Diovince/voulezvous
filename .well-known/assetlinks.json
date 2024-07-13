@@ -1,1 +1,12 @@
-[]
+[
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.voulezvous",
+        "sha256_cert_fingerprints": [
+          "4D:6F:F5:D9:B5:17:B4:C1:37:96:A5:27:71:A9:C7:2F:33:8B:86:8E:86:80:6E:AB:68:2D:48:F3:05:4C:B8:B7"
+        ]
+      }
+    }
+  ]
